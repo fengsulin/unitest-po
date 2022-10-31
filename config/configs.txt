@@ -1,0 +1,6 @@
+[BrowserType]
+browserName = Chrome
+;browserName = IE
+;browserName = Firefox
+[TestUrl]
+url = http://47.96.181.17:9090/

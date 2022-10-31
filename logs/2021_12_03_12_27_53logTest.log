@@ -1,0 +1,30 @@
+2021_12_03_12-27-53-readconfig.py-INFO-浏览器为：Chrome
+2021_12_03_12-27-53-readconfig.py-INFO-地址为：http://47.96.181.17:9090/
+2021_12_03_12-27-59-cutscreen.py-INFO-test_all_null脚本运行正常
+2021_12_03_12-28-19-homebase.py-INFO-元素定位失败，因为:Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01215843+2512963]
+	Ordinal0 [0x011AEED1+2092753]
+	Ordinal0 [0x010B1F48+1056584]
+	Ordinal0 [0x010DC70B+1230603]
+	Ordinal0 [0x01106442+1401922]
+	Ordinal0 [0x010F562A+1332778]
+	Ordinal0 [0x0110487F+1394815]
+	Ordinal0 [0x010F54BB+1332411]
+	Ordinal0 [0x010D1D14+1187092]
+	Ordinal0 [0x010D2B79+1190777]
+	GetHandleVerifier [0x01390C56+1501718]
+	GetHandleVerifier [0x0143E97F+2213695]
+	GetHandleVerifier [0x01298C92+485970]
+	GetHandleVerifier [0x01297D59+482073]
+	Ordinal0 [0x011B471D+2115357]
+	Ordinal0 [0x011B8678+2131576]
+	Ordinal0 [0x011B87B2+2131890]
+	Ordinal0 [0x011C1971+2169201]
+	BaseThreadInitThunk [0x7629FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77057A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77057A4E+238]
+
+2021_12_03_12-28-20-cutscreen.py-INFO-test_pwd_null脚本运行正常
+2021_12_03_12-28-20-cutscreen.py-INFO-test_user_null脚本运行正常
